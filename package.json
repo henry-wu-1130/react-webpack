@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development",
-    "analysis": "webpack --profile --json > stats.json"
+    "start": "webpack-dev-server --mode development"
   },
   "keywords": [],
   "author": "",
